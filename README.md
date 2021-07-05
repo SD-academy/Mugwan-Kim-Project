@@ -8,7 +8,8 @@
 ![image](https://user-images.githubusercontent.com/83946378/124432344-7b704200-ddac-11eb-8079-5aef727a620b.png)
 
 
-## ▶분석방법 : 파이썬, 오렌지 프로그램
+## ▶분석방법
+ - 파이썬, 오렌지 프로그램
 
 
 ## ▶검증 방법
