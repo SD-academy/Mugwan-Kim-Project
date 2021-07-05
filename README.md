@@ -5,7 +5,7 @@
 
 
 ## ▶데이터
-![image](https://user-images.githubusercontent.com/83946378/124430551-45ca5980-ddaa-11eb-9f0d-0f740a04408e.png)
+![image](https://user-images.githubusercontent.com/83946378/124430988-cc7f3680-ddaa-11eb-9a50-00cbd69d3195.png)
 
 
 ## ▶분석방법 : 파이썬, 오렌지 프로그램
