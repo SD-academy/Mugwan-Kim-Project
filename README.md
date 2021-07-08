@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/83946378/124899972-9ac0d680-e01b-11eb-9ebc-1ecdfe9beea1.png)
 
-</font color='red'>* 충남, 세종은 통합하면서 비율이 소수점 첫째자리에서 차이 날수도 있음
+<font color='red'>* 충남, 세종은 통합하면서 비율이 소수점 첫째자리에서 차이 날수도 있음
 * 자료출처 : https://www.yna.co.kr/view/AKR20170510025500001	</font>								
 
 
