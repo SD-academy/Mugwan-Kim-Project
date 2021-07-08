@@ -16,11 +16,9 @@
  - 19대 대통령선거 개표결과 VS 무응답 보정된 여론조사데이터 비교 (무응답 예측데이터 반영후 spss프로그램 비율테이블 돌려서 비교)
  - 오렌지 프로그램 예측데이터 VS 파이썬 머신러닝 예측데이터 비교 (각각의 무응답 예측데이터 엑셀 정리후 비교)<br>
 
-![image](https://user-images.githubusercontent.com/83946378/124899972-9ac0d680-e01b-11eb-9ebc-1ecdfe9beea1.png)
+![image](https://user-images.githubusercontent.com/83946378/124903432-ed4fc200-e01e-11eb-9eaa-a11244b0f1b9.png)
 
-* 충남, 세종은 통합하면서 비율이 소수점 첫째자리에서 차이 날수도 있음
-* 자료출처 : https://www.yna.co.kr/view/AKR20170510025500001	<br>					
-
+<br>
 
 ## ▶인사이트
  - 파이썬 머신러닝을 활용해서 무응답 예측을 함으로써, 선거여론조사(다른 전화여론조사 포함) 예측 정확도를 좀 더 높여 보고자 한다
