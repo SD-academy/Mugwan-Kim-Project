@@ -6,7 +6,8 @@
 <br>
 
 ## ▶데이터
-![image](https://user-images.githubusercontent.com/83946378/127788782-b0abf4ae-7a65-4b5c-8ef0-e91e6a06f31e.png)
+![image](https://user-images.githubusercontent.com/83946378/127788863-276a936c-ac69-4cc9-adc6-a44eef9dcd67.png)
+
 
 <br>
 
