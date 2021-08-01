@@ -6,7 +6,7 @@
 <br>
 
 ## ▶데이터
-![image](https://user-images.githubusercontent.com/83946378/124432344-7b704200-ddac-11eb-8079-5aef727a620b.png)
+![image](https://user-images.githubusercontent.com/83946378/127788782-b0abf4ae-7a65-4b5c-8ef0-e91e6a06f31e.png)
 
 <br>
 
@@ -71,5 +71,4 @@
  
  
 ### <5주차> 7월 26일 ~ 7월 30일 
- ◆ 목표
   - ppt 작업 마무리
