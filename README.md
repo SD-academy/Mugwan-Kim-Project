@@ -12,7 +12,7 @@
 
 ## ▶분석방법
  - 파이썬, 오렌지 프로그램<br>
-![image](https://user-images.githubusercontent.com/83946378/128139290-4ae447d5-1082-41d1-8a4a-659d98b42e46.png)
+![image](https://user-images.githubusercontent.com/83946378/128140129-3bd21c7e-58e0-4aca-9118-8d283772a364.png)
 
 <br>
 
