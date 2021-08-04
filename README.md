@@ -12,21 +12,20 @@
 
 ## ▶분석방법
  - 파이썬, 오렌지 프로그램<br>
-![image](https://user-images.githubusercontent.com/83946378/128138069-188c6aab-51e0-422b-a802-407e50725eae.png)
+![image](https://user-images.githubusercontent.com/83946378/128139290-4ae447d5-1082-41d1-8a4a-659d98b42e46.png)
 
 <br>
 
 ## ▶검증 방법
  - 19대 대통령선거 개표결과 VS 무응답 보정된 여론조사데이터 비교 (무응답 예측데이터 반영후 spss프로그램 비율테이블 돌려서 비교)
  - 오렌지 프로그램 예측데이터 VS 파이썬 머신러닝 예측데이터 비교 (각각의 무응답 예측데이터 엑셀 정리후 비교)<br>
-![image](https://user-images.githubusercontent.com/83946378/128138856-7c9ba20a-2efd-4b7f-b446-7edf42f126a4.png)
+![image](https://user-images.githubusercontent.com/83946378/128139587-037953fe-bca1-48de-94ee-c41c82ab93db.png)
 
 <br>
 
 ## ▶인사이트
- - 파이썬 머신러닝을 활용해서 무응답 예측을 함으로써, 선거여론조사(다른 전화여론조사 포함) 예측 정확도를 좀 더 높여 보고자 한다
-
-![image](https://user-images.githubusercontent.com/83946378/124427663-a3f53d80-dda6-11eb-9266-1053ca65da28.png)
+ - 파이썬 머신러닝을 활용해서 무응답 예측을 함으로써, 선거여론조사(다른 전화여론조사 포함) 예측 정확도를 좀 더 높여 보고자 한다<br>
+![image](https://user-images.githubusercontent.com/83946378/128139879-e1baf5a9-275c-45a6-8f44-0aea6cc47544.png)
 
 <br>
 
