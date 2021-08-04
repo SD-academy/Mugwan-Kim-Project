@@ -19,7 +19,7 @@
 ## ▶검증 방법
  - 19대 대통령선거 개표결과 VS 무응답 보정된 여론조사데이터 비교 (무응답 예측데이터 반영후 spss프로그램 비율테이블 돌려서 비교)
  - 오렌지 프로그램 예측데이터 VS 파이썬 머신러닝 예측데이터 비교 (각각의 무응답 예측데이터 엑셀 정리후 비교)<br>
-![image](https://user-images.githubusercontent.com/83946378/128139587-037953fe-bca1-48de-94ee-c41c82ab93db.png)
+![image](https://user-images.githubusercontent.com/83946378/128140663-6ca079d9-5d77-4d2d-8d65-9d9cc4d01e05.png)
 
 <br>
 
