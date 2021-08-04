@@ -8,7 +8,6 @@
 ## ▶데이터
 ![image](https://user-images.githubusercontent.com/83946378/127790460-3aeaab78-4ef1-404a-bde1-b53437f74be0.png)
 
-
 <br>
 
 ## ▶분석방법
@@ -20,8 +19,7 @@
 ## ▶검증 방법
  - 19대 대통령선거 개표결과 VS 무응답 보정된 여론조사데이터 비교 (무응답 예측데이터 반영후 spss프로그램 비율테이블 돌려서 비교)
  - 오렌지 프로그램 예측데이터 VS 파이썬 머신러닝 예측데이터 비교 (각각의 무응답 예측데이터 엑셀 정리후 비교)<br>
-
-![image](https://user-images.githubusercontent.com/83946378/124903432-ed4fc200-e01e-11eb-9eaa-a11244b0f1b9.png)
+![image](https://user-images.githubusercontent.com/83946378/128138856-7c9ba20a-2efd-4b7f-b446-7edf42f126a4.png)
 
 <br>
 
@@ -61,7 +59,7 @@
  
  ◆ 작업완료
   - 오렌지와 파이썬 결과 차이 이유 발견(투입변수(추가생성변수 투입여부) 
-  - 추가변수 생성작업(k-means : Q4, SIDO)
+  - 추가변수 SEG 생성(k-means : Q4, SIDO)
 
 ### <4주차> 7월 19일 ~ 7월 25일
  ◆ 목표
